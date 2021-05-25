@@ -1,5 +1,5 @@
 import random
-        
+print("ROCK PAPER SCISSOR GAME")        
 def generate_computers_choice():
     random_num = random.randint(1,3)
     if random_num == 1:
